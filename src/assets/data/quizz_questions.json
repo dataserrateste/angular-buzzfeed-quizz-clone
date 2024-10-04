@@ -1,0 +1,93 @@
+{
+  "title":"Você seria qual cavaleiro de bronze ?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Como você lida com desafios?",
+      "options":[
+        {"id": 1, "name":"Enfrento-os de cabeça erguida e não recuo.", "alias":"F"},
+        {"id": 2, "name":"Busco soluções pacíficas e tento evitar confrontos.", "alias":"A"},
+        {"id": 3, "name":"Analisando a situação antes de agir.", "alias":"C"},
+        {"id": 4, "name":"Com coragem e determinação, estou sempre pronto para lutar.", "alias":"P"},
+        {"id": 5, "name":"Protetor dos amigos, luto até o fim pelo que é certo.", "alias":"D"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Qual é o seu maior valor?",
+      "options":[
+        {"id": 1, "name":"Coragem.", "alias":"P"},
+        {"id": 2, "name":"Compaixão.", "alias":"A"},
+        {"id": 3, "name":"Lealdade.", "alias":"D"},
+        {"id": 4, "name":"Disciplina. ", "alias":"C"},
+        {"id": 5, "name":"Força.", "alias":"F"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Se você pudesse escolher um poder especial, qual seria?",
+      "options":[
+        {"id": 1, "name":"Criar ilusões e controlar as emoções dos outros.", "alias":"A"},
+        {"id": 2, "name":"Usar o poder do fogo para renascer das cinzas.", "alias":"F"},
+        {"id": 3, "name":"Congelar o tempo e o espaço.", "alias":"C"},
+        {"id": 4, "name":"Ter uma força inigualável e coragem em batalha.", "alias":"P"},
+        {"id": 5, "name":"A sabedoria de um dragão e a habilidade de lutar em defesa da justiça.", "alias":"D"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Como você reage quando alguém próximo está em perigo?",
+      "options":[
+        {"id": 1, "name":"Vou para a luta, custe o que custar.", "alias":"P"},
+        {"id": 2, "name":"Tento encontrar uma solução pacífica primeiro.", "alias":"A"},
+        {"id": 3, "name":"Com frieza e estratégia, busco a melhor forma de ajudar.", "alias":"C"},
+        {"id": 4, "name":"Luto ferozmente para protegê-los.", "alias":"F"},
+        {"id": 5, "name":"Estou sempre ao lado deles, pronto para defender.", "alias":"D"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual é sua abordagem em relacionamentos??",
+      "options":[
+        {"id": 1, "name":"Sou apaixonado e não tenho medo de demonstrar meus sentimentos.", "alias":"P"},
+        {"id": 2, "name":"Sou cuidadoso e atento às necessidades dos outros.", "alias":"A"},
+        {"id": 3, "name":"Prefiro relacionamentos que desafiem minha mente.", "alias":"C"},
+        {"id": 4, "name":"Sou intenso e leal, sempre lutando por aqueles que amo.", "alias":"F"},
+        {"id": 5, "name":"Valorizo a lealdade e a amizade acima de tudo.", "alias":"D"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "Qual é a sua maior ambição?",
+      "options":[
+        {"id": 1, "name":"Proteger os que amo e conquistar meus sonhos.", "alias":"P"},
+        {"id": 2, "name":"Trazer paz e harmonia ao mundo.", "alias":"A"},
+        {"id": 3, "name":"Dominar a sabedoria e o poder para alcançar a verdade.", "alias":"C"},
+        {"id": 4, "name":"Superar todos os limites e tornar-me mais forte.", "alias":"F"},
+        {"id": 5, "name":"Tornar-me um defensor da justiça e da verdade.", "alias":"D"}
+      ]
+    }
+  ],
+  "results": {
+    "A": {
+      "name": "Shun de Andrômeda",
+      "image": "assets/imgs/shun.png"
+    },
+    "C": {
+      "name": "Hyoga de Cisne",
+      "image": "assets/imgs/hyoga.png"
+    },
+    "D": {
+      "name": "Shiryu de Dragão",
+      "image": "assets/imgs/shiryu.jpg"
+    },
+    "F": {
+      "name": "Ikki de Fênix",
+      "image": "assets/imgs/ikki.png"
+    },
+    "P": {
+      "name": "Seiya de Pégasus",
+      "image": "assets/imgs/seiya.png"
+    }
+  }
+}
